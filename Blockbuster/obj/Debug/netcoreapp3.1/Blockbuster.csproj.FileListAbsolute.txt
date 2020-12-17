@@ -1,0 +1,13 @@
+C:\Users\Mike\Desktop\Coding\GrandCircus\Blockbuster\Blockbuster\bin\Debug\netcoreapp3.1\Blockbuster.exe
+C:\Users\Mike\Desktop\Coding\GrandCircus\Blockbuster\Blockbuster\bin\Debug\netcoreapp3.1\Blockbuster.deps.json
+C:\Users\Mike\Desktop\Coding\GrandCircus\Blockbuster\Blockbuster\bin\Debug\netcoreapp3.1\Blockbuster.runtimeconfig.json
+C:\Users\Mike\Desktop\Coding\GrandCircus\Blockbuster\Blockbuster\bin\Debug\netcoreapp3.1\Blockbuster.runtimeconfig.dev.json
+C:\Users\Mike\Desktop\Coding\GrandCircus\Blockbuster\Blockbuster\bin\Debug\netcoreapp3.1\Blockbuster.dll
+C:\Users\Mike\Desktop\Coding\GrandCircus\Blockbuster\Blockbuster\bin\Debug\netcoreapp3.1\Blockbuster.pdb
+C:\Users\Mike\Desktop\Coding\GrandCircus\Blockbuster\Blockbuster\obj\Debug\netcoreapp3.1\Blockbuster.csprojAssemblyReference.cache
+C:\Users\Mike\Desktop\Coding\GrandCircus\Blockbuster\Blockbuster\obj\Debug\netcoreapp3.1\Blockbuster.AssemblyInfoInputs.cache
+C:\Users\Mike\Desktop\Coding\GrandCircus\Blockbuster\Blockbuster\obj\Debug\netcoreapp3.1\Blockbuster.AssemblyInfo.cs
+C:\Users\Mike\Desktop\Coding\GrandCircus\Blockbuster\Blockbuster\obj\Debug\netcoreapp3.1\Blockbuster.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Desktop\Coding\GrandCircus\Blockbuster\Blockbuster\obj\Debug\netcoreapp3.1\Blockbuster.dll
+C:\Users\Mike\Desktop\Coding\GrandCircus\Blockbuster\Blockbuster\obj\Debug\netcoreapp3.1\Blockbuster.pdb
+C:\Users\Mike\Desktop\Coding\GrandCircus\Blockbuster\Blockbuster\obj\Debug\netcoreapp3.1\Blockbuster.genruntimeconfig.cache
